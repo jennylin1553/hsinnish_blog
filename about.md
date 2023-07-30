@@ -12,6 +12,6 @@ title: About
 
 
 
-# Light and Owl
+# Light and the Owl
 
 記錄生活、閱讀、寫作，還有貓咪跟追星。
