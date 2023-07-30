@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "柏林記憶復甦之旅"
 date: 2023-07-12
 tag: life
