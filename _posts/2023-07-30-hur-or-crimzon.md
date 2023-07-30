@@ -1,6 +1,7 @@
 ---
 title: "關於我的偶像HUR+，或緋紅魅影"
 date: 2023-07-30
+tag: hur+
 ---
 
 {% include youtube.html id="ajKLZ0ofgfM" %}
